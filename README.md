@@ -28,9 +28,9 @@ Fifth, click on databases tab and Create database naming “db_inventory”.
 Sixth, Click on browse file and select “db_inventory.sql” file which is inside “InventorySystem/Database/db_inventory.sql” folder in the extracted file and after import click “Go“.
 
 
-###Step 7: Open Visual Studio
+### Step 7: Open Visual Studio
 Seventh, Open a Visual Studio and open the folder InventorySystem.
 
 
-###Step 8: Start Project
+### Step 8: Start Project
 Start the project.
